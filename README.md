@@ -1,7 +1,7 @@
 # FCSF-SC2002-Group-Assignment
 # Turn-Based Combat Arena
 SC2002 Group Assignment AY25/26 Semester 2
-
+(This readme is just a sample, Original Report is attached as a SEPARATE FILE)
 A command-line turn-based combat game built in Java, designed with Object-Oriented Design Principles (OODP) and SOLID architecture in mind.
 
 ## Table of Contents
